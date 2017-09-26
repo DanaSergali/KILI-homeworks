@@ -1,0 +1,95 @@
+ <!DOCTYPE html>
+
+<html>
+	<head>
+		<title> Personal page of Dana Sergaliyeva </title>
+	 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+		<meta name="description" content="Personal page and contacts">
+		<!-- Bootstrap Core CSS -->
+    	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	</head>
+	<body>
+		<nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+			<div class="container"> 
+				<div class="navbar-header"> 
+					<a href="https://ling.hse.ru/" class="navbar-brand">Linguistics school HSE</a> 
+				</div> 
+				<nav class="collapse navbar-collapse" id="bs-navbar"> 
+					<ul class="nav navbar-nav navbar-right"> 
+						<li> <a href="">Traveler</a> </li> 
+						<li> <a href="">Dancer</a> </li> 
+					</ul>
+				</nav> 
+			</div>
+		</nav>
+		<header style="background-color:pink; padding-top:60px; "> 
+			<div class="container"> 
+				<div class="row">
+					<div class="col-md-7">
+						<br/><br/>
+						<h1>Sergaliyeva Dana</h1>
+						<hr>
+						<p><i> The person who knows a bit of HTML</i></p> 
+	                </div>
+					<div class="col-md-6">
+        	            <img src=" https://pp.userapi.com/c841438/v841438567/1b149/l69q6eK43j0.jpg " width="252" height="336" >
+						
+					</div>
+	            </div>
+			</div>
+		</header>
+		<section id="portfolio">
+			<div class="container">
+				<div class="col-md-3">
+				<article>
+					<h3> Place of study:</h2>
+					<p>HSE</p>
+				</article>
+				<article>
+					<h3>School</h2>
+					<p>lyceum #35</p>
+				</article>
+				</div>
+				<div class="col-md-6">
+				<article>
+					<h3>A little bit about me <3 </h2>
+					<p> 
+			                <br />
+					Люблю свою семью <br />
+					Люблю танцевать<br />
+					Люблю много путешествовать <br />
+					Люблю узнавать людей <br />
+					Восхищаюсь своими родителями <br />
+					Вдохновляюсь творчеством <br />
+					Люблю изучать языки<br />
+					Come stai? <br />
+					¿ Como estas ? <br />
+					Comment ça va?<br />
+					Қалыңыз қалай? <br />
+					როგორ ხართ ? <br />
+					τι κάνεις ? <br />
+					Если что, я спросила у вас, как дела ))
+				        <br />
+					Любимая еда - фрукты, любимые фрукты - персики и дыня <br />
+					Я ела пиццу в Италии <br />
+					А еще пробовала мангостин в Тайланде </p>
+				</article>
+				</div>
+			<div class="col-md-3">
+				<h3>Contacts</h3>
+						<ul>
+							<li>VK</li>
+							<li>Facebook</li>
+						
+						</ul>
+				</div>
+			</div>
+		</section>
+		<footer class="bs-docs-footer"> 
+			<div class="container"> 
+				<p style="text-align:right; ">&copy; Dana Sergali, 2017</p> 
+			</div>
+		</footer>
+	</body>
+</html>
